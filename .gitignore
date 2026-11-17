@@ -1,0 +1,18 @@
+# Secrets
+.env
+*.key
+
+# Unpublished research, never commit
+findings/
+reports/private/
+lab/data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
